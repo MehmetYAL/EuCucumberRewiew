@@ -1,3 +1,4 @@
+@smoke
 Feature: Vytrack application login test
 
 
